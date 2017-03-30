@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "express app to match friends based on user input",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daltonjw/FriendFinder.git"
+  },
+  "keywords": [
+    "express",
+    "friendfinder",
+    "nodejs"
+  ],
+  "author": "James W Dalton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daltonjw/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/daltonjw/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
