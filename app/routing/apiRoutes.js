@@ -39,7 +39,7 @@ function compatabilityCalc(req, resp){
 	//Loop through existing friends
     for (var i = 0; i < friends.length; i++) {
 
-      console.log(friends[i].name);
+      // console.log(friends[i].name);
       totalDifference = 0;
 
       // We then loop through all the scores of each friend
